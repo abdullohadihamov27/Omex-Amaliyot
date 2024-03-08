@@ -1,0 +1,44 @@
+.contact-img img{
+    float: left;
+}
+.heading-login{
+    display: inline-block;
+    margin-top: 8pc;
+    margin-left: 10pc;
+}
+.inputs-section{
+    display: inline-block;
+    margin-left: 8pc;
+}
+input{
+    margin-left: 2pc;
+    width: 15.8pc;
+    height: 2.5pc;
+    border-radius: 5px;
+    border: 1px solid rgb(217, 217, 217);
+}
+.textares-section{
+    margin-top: 1pc;
+    margin-left: 10pc;
+    display: inline-block;
+}
+textarea{
+    height: 137px;
+    width: 34pc;
+    font-size: 13px;
+    margin-bottom: 10px;
+    background: #ffffff;
+    border: 1px solid #e6e6e6;
+    border-radius: 5px;
+
+}
+button.btn {
+    margin-top: 1pc;
+    width: 34.4pc;
+    margin-left: 10pc;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    background: #00a99d;
+    color: #ffffff;
+}

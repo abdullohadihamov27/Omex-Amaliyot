@@ -1,0 +1,31 @@
+.box {
+    margin-top: 1.5pc;
+    text-align: center;
+    width: 17%;
+    padding: 50px 30px;
+    box-shadow: 1px 1px 20px 0px rgba(0,0,0,0.09);
+    border-radius: 5px;
+    margin-bottom: 30px;
+    background: #ffffff;
+    display: inline-block;
+    margin-left: 24px;
+}
+.heading-spam {
+    font-size: 16px;
+    font-weight: 400;
+    color: #c0c0c9;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 3px;
+    margin-left: 32.5pc;
+}
+
+.heading-desc {
+    text-align: center;
+    font-size: 35px;
+    color: #333448;
+    font-weight: 700;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 10px;
+}

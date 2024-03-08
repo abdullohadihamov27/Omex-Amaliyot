@@ -1,0 +1,57 @@
+.mian-section{
+    background-image: url(https://omex.netlify.app/home-1/img/bg/slider.png);
+}
+.section-one{
+    margin-top: 23pc;
+    max-width: 50%;
+    float: left;
+}
+.section-img{
+    margin-top: 14.5pc;
+    max-width: 50%;
+    float: right;
+}
+span {
+    font-size: 20px;
+    font-weight: 400;
+    color: #515151;
+    display: inline-block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+    font-family: 'Roboto', sans-serif;
+}
+.omex {
+    color: #0cbb7f;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 47px;
+    color: #313131;
+    font-weight: 800;
+    margin: 0;
+    line-height: 55px;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 30px;
+}
+.btn-green {
+    background: #0cbb7f;
+    border: 2px solid #0cbb7f;
+    text-decoration: none;
+    margin: 0;
+    color: #ffffff;
+    display: inline-block;
+    padding: 11px 28px;
+    border-radius: 100px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 400;
+    transition: all .3s ease-in-out;
+}
+.btn-green:hover {
+    background: #ffffff;
+    color: #0cbb7f;
+}
+.clearfix{
+    clear: both;
+}

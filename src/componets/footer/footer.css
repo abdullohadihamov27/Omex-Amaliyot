@@ -1,0 +1,36 @@
+.link-section{
+    margin-left: 15pc;
+    display: inline-block;
+}
+.who{
+    float: right;
+    margin-right: 60pc;
+    margin-top: 8pc;
+}
+.links{
+    float: left;
+    margin-left: 9pc;
+    margin-top: -5pc;
+}
+.title{
+    font-size: 22px;
+}
+.links p:hover{
+    color: #00A99D;
+}
+.social-section{
+    float: right;
+    margin-top: -4pc;
+    width: 50px;
+    height:3pc;
+    border:  1px solid #00A99D;
+    margin-left: 1pc;
+    border-radius: 25px;
+    display: inline-block;
+}
+.icons{
+    font-size: 26px;
+    margin-top: 12px;
+    margin-left: 12px;
+    color: #00A99D;
+}

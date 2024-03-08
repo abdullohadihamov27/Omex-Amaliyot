@@ -1,0 +1,49 @@
+.testimonials-section{
+    margin-top: 10pc;
+}
+.testimonials-cards{
+    width: 100%;
+}
+.image{
+    width: 25%;
+    float: right;
+}
+.images .image-1 {
+    margin-top: -40pc;
+    margin-right: 15pc;
+    animation: circle 3s infinite ease-in-out;
+}
+
+.images .image-2 {
+    margin-top: -37pc;
+    margin-right: -8pc;
+    animation: circle 3s infinite ease-in-out;
+}
+.images .image-3 {
+    margin-top: -27pc;
+    margin-right: 5pc;
+    animation: circle 3s infinite ease-in-out;
+}
+.images .image-4 {
+    margin-top: -12pc;
+    margin-right: 15pc;
+    animation: circle 3s infinite ease-in-out;
+}
+.images .image-5 {
+    margin-top: -15pc;
+    margin-right: -10pc;
+    animation: circle 3s infinite ease-in-out;
+}
+
+@keyframes circle{
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(.9);
+    }
+    
+    100% {
+        transform: scale(1);
+    }
+    }
